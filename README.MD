@@ -27,7 +27,7 @@ Projeto realizado para teste de aprendizado.</p>
 
 ## 💻 Projeto
 
-A ideia do projeto era elaborar um site que mostrasse um cartão de embarque, usando HTML e CSS
+A ideia do projeto era elaborar um site que mostrasse um formulario, usando HTML e CSS
 
 - [Acesse aqui o projeto online](https://klebsonamarantes.github.io/projeto-formulario/)
 
